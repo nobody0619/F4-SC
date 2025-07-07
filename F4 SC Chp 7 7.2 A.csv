@@ -1,0 +1,11 @@
+﻿title,type,question,A,B,C,D,E,F,G,H,answer,image
+Disruptions to Body Coordination,checkbox,哪些是 Depressant / Penenang ?,Barbiturates / Barbiturat,Alcohol / Alkohol,Amphetamine / Amfetamina,Methamphetamine / Metamfetamin,Solvent / Pelarut,Gas substance / Bahan gas,Ketamine / Ketamin,LSD,"A,B",
+,checkbox,哪些是 Stimulant / Perangsang ?,Barbiturates / Barbiturat,Alcohol / Alkohol,Amphetamine / Amfetamina,Methamphetamine / Metamfetamin,Solvent / Pelarut,Gas substance / Bahan gas,Ketamine / Ketamin,LSD,"C,D",
+,checkbox,哪些是 Inhalant / Inhalan ?,Barbiturates / Barbiturat,Alcohol / Alkohol,Amphetamine / Amfetamina,Methamphetamine / Metamfetamin,Solvent / Pelarut,Gas substance / Bahan gas,Ketamine / Ketamin,LSD,"E,F",
+,checkbox,哪些是 Hallucinogen / Hallusinogen ?,Barbiturates / Barbiturat,Alcohol / Alkohol,Amphetamine / Amfetamina,Methamphetamine / Metamfetamin,Solvent / Pelarut,Gas substance / Bahan gas,Ketamine / Ketamin,LSD,"G,H",
+,radio,Prevents or slows down impulse transmission / Menghalang atau melambatkan pergerakan impuls,Inhalant / Inhalan,Hallucinogen / Hallusinogen,Depressant / Penenang,Stimulant / Perangsang,,,,,C,
+,radio,User will be sleepy and less anxious / Pengguna akan mengantuk dan kurang cemas,Inhalant / Inhalan,Hallucinogen / Hallusinogen,Depressant / Penenang,Stimulant / Perangsang,,,,,C,
+,radio,Speeds up impulse transmission / Mempercepat pergerakan impuls,Inhalant / Inhalan,Hallucinogen / Hallusinogen,Depressant / Penenang,Stimulant / Perangsang,,,,,D,
+,radio,User will feel very confident and alert to the surroundings / Pengguna akan berasa sangat yakin dan berwaspada terhadap perubahan sekeliling,Inhalant / Inhalan,Hallucinogen / Hallusinogen,Depressant / Penenang,Stimulant / Perangsang,,,,,D,
+,radio,Changes the path of impulses in the brain / Mengubah laluan impuls di dalam otak,Inhalant / Inhalan,Hallucinogen / Hallusinogen,Depressant / Penenang,Stimulant / Perangsang,,,,,B,
+,checkbox,哪些会导致 Hallucination / Halosinasi/Khayal ?,Inhalant / Inhalan,Hallucinogen / Hallusinogen,Depressant / Penenang,Stimulant / Perangsang,,,,,"A,B",
