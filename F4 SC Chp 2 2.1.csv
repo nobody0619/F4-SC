@@ -1,0 +1,11 @@
+﻿title,type,question,A,B,C,D,E,F,G,answer,image
+CPR,radio,CPR 是,CardioPulmonary Resuscitation,CentralPressure Release,CriticalPulmonary Reaction,CellularProtein Regulation,,,,A,
+,radio,CPR 的第1个步骤,Check the victim’s responses / Periksa respons mangsa,Open the airway / Buka saluran pernafasan,Chest compressions / Tekanan dada,Mouth-to-mouth resuscitation / Bantuan pernafasan,,,,A,
+,radio,CPR 的第2个步骤,Check the victim’s responses / Periksa respons mangsa,Open the airway / Buka saluran pernafasan,Chest compressions / Tekanan dada,Mouth-to-mouth resuscitation / Bantuan pernafasan,,,,B,
+,radio,CPR 的第3个步骤,Check the victim’s responses / Periksa respons mangsa,Open the airway / Buka saluran pernafasan,Chest compressions / Tekanan dada,Mouth-to-mouth resuscitation / Bantuan pernafasan,,,,C,
+,radio,CPR 的第4个步骤,Check the victim’s responses / Periksa respons mangsa,Open the airway / Buka saluran pernafasan,Chest compressions / Tekanan dada,Mouth-to-mouth resuscitation / Bantuan pernafasan,,,,D,
+,radio,CPR 的按压频率,80-100 次/分钟,100-120 次/分钟,120-140 次/分钟,140-160 次/分钟,,,,B,
+,radio,CPR 的按多深？,3-4cm,4-5cm,5-6cm,6-7cm,,,,C,
+,radio,CPR 的按压与人工呼吸的次数,15次按压，2次人工呼吸,15次按压，4次人工呼吸,30次按压，2次人工呼吸,30次按压，4次人工呼吸,,,,C,
+,checkbox,需要CPR的Situation / Situasi,not breathing / tidak bernafas,no heartbeat or pulse / tiada degupan jantung atau nadi,does not respond to stimulus / tidak memberikan respons terhadap rangsangan,Minor cut with normal breathing / Potongan kecil dengan pernafasan normal,Conscious but emotionally distressed / Sedar tetapi emosi tertekan,,,"A,B,C",
+,checkbox,需要CPR的Situation / Situasi 是caused by / disebabkan oleh,Heart attack / Serangan jantung,Electric shock / Renjatan elektrik,Drowning / Lemas,Lightning strike / Panahan petir,Mild Fever / Demam Ringan,Sprained Ankle / Terseliuh Buku Lali,Nose bleed / Hidung Berdarah,"A,B,C,D",

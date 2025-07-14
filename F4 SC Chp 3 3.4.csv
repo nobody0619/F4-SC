@@ -1,0 +1,6 @@
+﻿title,type,question,A,B,C,D,E,F,answer,image
+BMI,radio,BMI 的Formula是,kg/m²,m²/kg,kg²/m,m/kg²,,,A,
+,radio,<18.5,Underweight / Kurang jisim badan,Desirable weight / Jisim badan unggul,Overweight / Berlebihan jisim badan,Obese / Obes,,,A,
+,radio,18.5-24.9,Underweight / Kurang jisim badan,Desirable weight / Jisim badan unggul,Overweight / Berlebihan jisim badan,Obese / Obes,,,B,
+,radio,25-29.9,Underweight / Kurang jisim badan,Desirable weight / Jisim badan unggul,Overweight / Berlebihan jisim badan,Obese / Obes,,,C,
+,radio,>30,Underweight / Kurang jisim badan,Desirable weight / Jisim badan unggul,Overweight / Berlebihan jisim badan,Obese / Obes,,,D,

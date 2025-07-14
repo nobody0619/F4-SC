@@ -1,0 +1,20 @@
+﻿title,type,question,A,B,C,D,E,F,answer,image
+Mitosis & Meiosis,radio,Mitosis 分裂几次,1,2,,,,,A,
+,radio,Meiosis 分裂几次,1,2,,,,,B,
+,radio,Meiosis 几个daughter cell / Sel anak,1,2,4,8,,,C,
+,radio,Mitosis 几个daughter cell / Sel anak,1,2,4,8,,,B,
+,radio,"For growth / Repair damage cell //
+Untuk pertumbuhan / memperbaiki sel yang rosak",Mitosis,Meiosis,,,,,A,
+,radio,To produce gamete / Untuk menghasilkan gamet,Mitosis,Meiosis,,,,,B,
+,radio,Same number of chromosomes / Bilangan kromosom yang sama,Mitosis,Meiosis,,,,,A,
+,radio,Half number of chromosomes / Bilangan kromosom yang separuh,Mitosis,Meiosis,,,,,B,
+,radio,Occurs in somatic cell / Berlaku dalam sel soma,Mitosis,Meiosis,,,,,A,
+,radio,Occurs in reproductive cell / Berlaku dalam sel pembiakan,Mitosis,Meiosis,,,,,B,
+,radio,Crossing over occurs / berlaku pindah silang,Mitosis,Meiosis,,,,,B,
+,radio,Crossing over does not occurs / tidak berlaku pindah silang,Mitosis,Meiosis,,,,,A,
+,radio,No variation / Tiada variasi,Mitosis,Meiosis,,,,,A,
+,radio,Has variation / Ada variasi,Mitosis,Meiosis,,,,,B,
+,radio,这是什么 phase / fasa,Prophase / Profasa,Metaphase / Metafasa,Anaphase / Anafasa,Telophase / Telofasa,,,A,prophase.png
+,radio,这是什么 phase / fasa,Prophase / Profasa,Metaphase / Metafasa,Anaphase / Anafasa,Telophase / Telofasa,,,B,metaphase.png
+,radio,这是什么 phase / fasa,Prophase / Profasa,Metaphase / Metafasa,Anaphase / Anafasa,Telophase / Telofasa,,,C,anaphase.png
+,radio,这是什么 phase / fasa,Prophase / Profasa,Metaphase / Metafasa,Anaphase / Anafasa,Telophase / Telofasa,,,D,telophase.png

@@ -1,0 +1,13 @@
+﻿title,type,question,A,B,C,D,E,F,G,H,I,answer,image
+血压,radio,血压计的英文或马来文是？,,,,,,,,,,"sphygmomanometer,sfigmomanometer",
+,radio,血压的单位是,,,,,,,,,,mmHg,
+,radio,Normal 的血压是多少？,<120/80,120/80,130/85,140/90,160/100,>180/110,,,,B,
+,radio,Optimal / optimum 的血压是多少？,<120/80,120/80,130/85,140/90,160/100,>180/110,,,,A,
+,radio,at risk / berisiko 的血压是多少？,<120/80,120/80,130/85,140/90,160/100,>180/110,,,,C,
+,radio,high blood pressure stage 1 / Tekanan darah tinggi peringkat 1 的血压是多少？,<120/80,120/80,130/85,140/90,160/100,>180/110,,,,D,
+,radio,high blood pressure stage 2 / Tekanan darah tinggi peringkat 2 的血压是多少？,<120/80,120/80,130/85,140/90,160/100,>180/110,,,,E,
+,radio,high blood pressure stage 3 / Tekanan darah tinggi peringkat 3 的血压是多少？,<120/80,120/80,130/85,140/90,160/100,>180/110,,,,F,
+,radio,"小明的血压145/96, 他属于",optimal / optimum,normal,at risk / berisiko,high blood pressure stage 1 / Tekanan darah tinggi peringkat 1,high blood pressure stage 2 / Tekanan darah tinggi peringkat 2,high blood pressure stage 3 / Tekanan darah tinggi peringkat 3,,,,D,
+,radio,"小明的血压127/82, 他属于",optimal / optimum,normal,at risk / berisiko,high blood pressure stage 1 / Tekanan darah tinggi peringkat 1,high blood pressure stage 2 / Tekanan darah tinggi peringkat 2,high blood pressure stage 3 / Tekanan darah tinggi peringkat 3,,,,B,
+,radio,120/80 的120代表的是,systolic pressure / tekanan sistolik,diastolic pressure / tekanan diastolik,,,,,,,,A,
+,radio,130/85 的85代表的是,systolic pressure / tekanan sistolik,diastolic pressure / tekanan diastolik,,,,,,,,B,
