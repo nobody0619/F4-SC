@@ -1,0 +1,21 @@
+﻿title,type,question,A,B,C,D,E,F,answer,image
+Linear Motion,checkbox,哪个是有分方向的？,Distance / Jarak,Displacement / Sesaran,Speed / Laju,Velocity / Halaju,,,"B,D",
+,checkbox,哪个是没有分方向的？,Distance / Jarak,Displacement / Sesaran,Speed / Laju,Velocity / Halaju,,,"A,C",
+,radio,哪个是 Speed / Laju 的 Formulae / Formula ?,Distance ÷ Time / Jarak ÷ Masa,Displacement ÷ Time / Sesaram ÷ Masa,(Final velocity - Initial velocity) ÷ Time / (Halaju akhir - Halaju awal)  ÷ Masa,,,,A,
+,radio,哪个是 Velocity / Halaju 的 Formulae / Formula ?,Distance ÷ Time / Jarak ÷ Masa,Displacement ÷ Time / Sesaram ÷ Masa,(Final velocity - Initial velocity) ÷ Time / (Halaju akhir - Halaju awal)  ÷ Masa,,,,B,
+,radio,哪个是 Acceleration / Pecutan 的 Formulae / Formula ?,Distance ÷ Time / Jarak ÷ Masa,Displacement ÷ Time / Sesaram ÷ Masa,(Final velocity - Initial velocity) ÷ Time / (Halaju akhir - Halaju awal)  ÷ Masa,,,,C,
+,radio,从 0m/s 到 20m/s 用时4秒， acceleration / pecutan 怎么算？,(20 - 0) ÷ 4,(0 - 20) ÷ 4,,,,,A,
+,radio,从 100m/s 到 20m/s 用时4秒， acceleration / pecutan 怎么算？,(20-100) ÷ 4,(100-20) ÷ 4,,,,,A,
+,radio,从 100m/s 到 20m/s 用时4秒， acceleration / pecutan 是多少？,30m/s²,-30m/s²,20m/s²,-20m/s²,,,D,
+,radio,从 100m/s 到 20m/s 用时4秒， deceleration / nyahpecutan 是多少？,30m/s²,-30m/s²,20m/s²,-20m/s²,,,C,
+,radio,average spped / laju purata 怎么算？,6.5cm ÷ 0.02s,6.5cm ÷ (11 x 0.02s),6.5cm ÷ (10 x 0.02s),6.5cm ÷ 50s,,,C,ticker_tape.png
+,radio,这属于？,Uniform velocity / Halaju seragam,Non-uniform velocity / Halaju tidak seragam,Acceleration / Pecutan,Deceleration / Nyahpecutan,,,A,ticker_tape_2.png
+,radio,这属于？,Uniform velocity / Halaju seragam,Non-uniform velocity / Halaju tidak seragam,Acceleration / Pecutan,Deceleration / Nyahpecutan,,,B,ticker_tape_3.png
+,radio,这属于？,Uniform velocity / Halaju seragam,Non-uniform velocity / Halaju tidak seragam,Acceleration / Pecutan,Deceleration / Nyahpecutan,,,C,ticker_tape_4.png
+,radio,这属于？,Uniform velocity / Halaju seragam,Non-uniform velocity / Halaju tidak seragam,Acceleration / Pecutan,Deceleration / Nyahpecutan,,,D,ticker_tape_5.png
+,radio,velocity-time graph / Graf halaju-masa 的 gradient / kecerunan 代表,Acceleration / Pecutan,Deceleration / Nyahpecutan,Displacement / Sesaran,Distance / Jarak,,,A,
+,radio,velocity-time graph / Graf halaju-masa 的 area / luas 代表,Acceleration / Pecutan,Deceleration / Nyahpecutan,Displacement / Sesaran,Distance / Jarak,,,C,
+,checkbox,Velocity / Halaju = 5m/s 这代表往哪走？,前,后,左,右,去,回,"A,D,E",
+,checkbox,Velocity / Halaju = -6m/s 这代表往哪走？,前,后,左,右,去,回,"B,C,F",
+,checkbox,Displacement = -8m 这代表往哪走？,前,后,左,右,去,回,"B,C,F",
+,checkbox,Displacement = 4m 这代表往哪走？,前,后,左,右,去,回,"A,D,E",

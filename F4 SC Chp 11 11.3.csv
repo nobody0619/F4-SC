@@ -1,0 +1,7 @@
+﻿title,type,question,A,B,C,D,E,F,answer,image
+Gravitational Acceleration and Free Fall,radio,g = ?,10 m,10 s,10 m/s,10 m/s²,,,D,
+,radio,Free fall / Jatuh bebas 受到什么影响？,Gravitational force / Daya graviti,Air resistance / Rintangan udara,Mass / Jisim,,,,A,
+,checkbox,Non-Free fall / Bukan Jatuh bebas 受到什么影响？,Gravitational force / Daya graviti,Air resistance / Rintangan udara,Mass / Jisim,,,,"A,B",
+,checkbox,Free fall / Jatuh bebas 只会发生在,Vacuum / Vakum,Non-vacuum / Bukan vakum,Space with air / Ruang yang ada udara,Space with no air / Ruang yang tiada udara,,,"A,D",
+,radio,篮球和羽毛在同个高度丢下，在 Vacuum / Vakum 的环境下，哪个会先到底？,篮球,羽毛,同时,,,,C,
+,radio,篮球和羽毛在同个高度丢下，在 Non-Vacuum / Bukan Vakum 的环境下，哪个会先到底？,篮球,羽毛,同时,,,,A,
