@@ -1,6 +1,6 @@
 ﻿title,type,question,A,B,C,D,E,F,G,H,I,answer,image
-血压,radio,血压计的英文或马来文是？,,,,,,,,,,"sphygmomanometer,sfigmomanometer",
-,radio,血压的单位是,,,,,,,,,,mmHg,
+血压,text,血压计的英文或马来文是？,,,,,,,,,,"sphygmomanometer,sfigmomanometer",
+,text,血压的单位是,,,,,,,,,,mmHg,
 ,radio,Normal 的血压是多少？,<120/80,120/80,130/85,140/90,160/100,>180/110,,,,B,
 ,radio,Optimal / optimum 的血压是多少？,<120/80,120/80,130/85,140/90,160/100,>180/110,,,,A,
 ,radio,at risk / berisiko 的血压是多少？,<120/80,120/80,130/85,140/90,160/100,>180/110,,,,C,
