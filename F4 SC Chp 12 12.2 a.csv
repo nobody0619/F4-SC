@@ -1,0 +1,11 @@
+﻿title,type,question,A,B,C,D,E,F,G,H,answer,image
+The Production of Nuclear Energy,radio,"Process of splitting a heavy radioactive nucleus into two or more nuclei / 
+Proses pemecahan satu nukleus radioaktif yang berat kepada dua atau lebih nukleus",Nuclear Fission / Pembelahan Nukleus,Nuclear Fusion / Pelakuran Nukleus,,,,,,,A,
+,radio,"Process of fusing or combining two light radioactive nuclei to form a heavier nucleus / 
+Proses percantuman atau penggabungan dua nukleus radioaktif yang ringan membentuk satu nukleus yang lebih berat",Nuclear Fission / Pembelahan Nukleus,Nuclear Fusion / Pelakuran Nukleus,,,,,,,B,
+,radio,Release more nuclear energy / Membebaskan tenaga nujkear yang lebih banyak,Nuclear Fission / Pembelahan Nukleus,Nuclear Fusion / Pelakuran Nukleus,,,,,,,B,
+,radio,Occurs naturally in Sun / Berlaku secara semula jadi dalam Matahari,Nuclear Fission / Pembelahan Nukleus,Nuclear Fusion / Pelakuran Nukleus,,,,,,,B,
+,radio,Used to generate electricity / Digunakan untuk menjana tenaga elektrik,Nuclear Fission / Pembelahan Nukleus,Nuclear Fusion / Pelakuran Nukleus,,,,,,,A,
+,text,写出这是什么 process / proses,,,,,,,,,"nuclear fission,pembelahan nukleus",nuclear_fission.png
+,text,写出这是什么 process / proses,,,,,,,,,"nuclear fusion,pelakuran nukleus",nuclear_fusion.png
+,checkbox,某些国家选择核能的原因,Lack of other energy sources / Kurang sumber tenaga lain,Vast country and high population density / Keluasan negara yang besar serta kepadatan penduduk yang tinggi,Source of national income / Sumber pendapatan negara,Sophisticated technology / Teknologi yang canggih,Abundant coal resources / Sumber arang batu yang banyak,Strong wind all year round / Angin kuat sepanjang tahun,Plenty of sunlight / Cahaya matahari yang banyak,Low population and energy demand / Penduduk dan permintaan tenaga yang rendah,,
