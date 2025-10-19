@@ -1,0 +1,11 @@
+﻿title,type,question,A,B,C,D,E,F,G,H,I,J,answer,image
+Gene Disorder Disease,checkbox,哪两个病是男生比较有概率会得到的？,Down syndrome / Sindrom Down,Turner syndrome / Sindrom Turner,Klinefelter syndrome / Sindrom Klinefelter,Colour blindness / Buta warna,Sickle cell anaemia / Anemia sel sabit,Thalassemia / Talasemia,Haemophilia / Hemofilia,Albinism / Albinisme,,,"D,G",
+,radio,这属于,Female (Carrier) / Perempuan (Pembawa),Female (Colour blind) / Perempuan (Buta warna),Male (Normal) / Lelaki (Normal),Male (Colour blind) / Lelaki (Buta warna),,,,,,,A,genotype_1.png
+,radio,这属于,Female (Carrier) / Perempuan (Pembawa),Female (Colour blind) / Perempuan (Buta warna),Male (Normal) / Lelaki (Normal),Male (Colour blind) / Lelaki (Buta warna),,,,,,,D,genotype_2.png
+,radio,这属于,Female (Carrier) / Perempuan (Pembawa),Female (Colour blind) / Perempuan (Buta warna),Male (Normal) / Lelaki (Normal),Male (Colour blind) / Lelaki (Buta warna),,,,,,,C,genotype_3.png
+,radio,这属于,Female (Carrier) / Perempuan (Pembawa),Female (Colour blind) / Perempuan (Buta warna),Male (Normal) / Lelaki (Normal),Male (Colour blind) / Lelaki (Buta warna),,,,,,,B,genotype_4.png
+,radio,如何检查胎儿的基因,Amniocentesis / Kaedah Amniosentesis,Gene Therapy / Terapi Gen,Genetic Genealogy / Genealogi Genetik,Recombinant DNA Technology / Teknologi DNA Rekombinan,Genetically Modified Organism (GMO) / Organisma Termodifikasi Genetik (GMO),,,,,,A,
+,radio,"The production of human insulin using bacteria / 
+Penghasilan insulin manusia melalui bakteria",Amniocentesis / Kaedah Amniosentesis,Gene Therapy / Terapi Gen,Genetic Genealogy / Genealogi Genetik,Recombinant DNA Technology / Teknologi DNA Rekombinan,Genetically Modified Organism (GMO) / Organisma Termodifikasi Genetik (GMO),,,,,,A,
+,radio,"Introducing a normal gene into the cell or tissue of the patient to replace the defective genes / 
+Menyisipkan gen normal ke dalam sel atau tisu badan pesakit untuk menggantikan gen yang rosak",Amniocentesis / Kaedah Amniosentesis,Gene Therapy / Terapi Gen,Genetic Genealogy / Genealogi Genetik,Recombinant DNA Technology / Teknologi DNA Rekombinan,Genetically Modified Organism (GMO) / Organisma Termodifikasi Genetik (GMO),,,,,,B,

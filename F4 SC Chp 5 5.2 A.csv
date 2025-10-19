@@ -1,0 +1,7 @@
+﻿title,type,question,A,B,C,D,E,F,answer,image
+Chromosome,radio,男生的 Chomosome / Kromosome 是,44+XY,44+XX,22+X,22+Y,23+X,23+Y,A,
+,radio,女生的 Chomosome / Kromosome 是,44+XY,44+XX,22+X,22+Y,23+X,23+Y,B,
+,checkbox,Sperm / Sperma 的 Chomosome / Kromosome 是,44+XY,44+XX,22+X,22+Y,23+X,23+Y,"C,D",
+,radio,Ovum 的 Chomosome / Kromosome 是,44+XY,44+XX,22+X,22+Y,23+X,23+Y,C,
+,radio,生儿子与生女儿的 ratio / kadar 是,1:1,50%,½,,,,A,
+,radio,生儿子与生女儿的 probability / kebarangkalian 是,1:1,50%,½,,,,C,

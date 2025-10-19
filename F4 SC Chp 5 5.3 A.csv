@@ -1,0 +1,22 @@
+﻿title,type,question,A,B,C,D,E,F,G,H,I,J,answer,image
+Mutation,checkbox,Chromosome mutation / Mutasi kromosom,Down syndrome / Sindrom Down,Turner syndrome / Sindrom Turner,Klinefelter syndrome / Sindrom Klinefelter,Colour blindness / Buta warna,Sickle cell anaemia / Anemia sel sabit,Thalassemia / Talasemia,Haemophilia / Hemofilia,Albinism / Albinisme,,,"A,B,C",
+,checkbox,Gene mutation / Mutasi gen,Down syndrome / Sindrom Down,Turner syndrome / Sindrom Turner,Klinefelter syndrome / Sindrom Klinefelter,Colour blindness / Buta warna,Sickle cell anaemia / Anemia sel sabit,Thalassemia / Talasemia,Haemophilia / Hemofilia,Albinism / Albinisme,,,"D,E,F,G,H",
+,radio,"an extra chromosome in chromosome number 21 / 
+terdapat penambahan satu kromosom pada pasangan kromosom ke-21",Down syndrome / Sindrom Down,Turner syndrome / Sindrom Turner,Klinefelter syndrome / Sindrom Klinefelter,Colour blindness / Buta warna,Sickle cell anaemia / Anemia sel sabit,Thalassemia / Talasemia,Haemophilia / Hemofilia,Albinism / Albinisme,,,A,
+,radio,"physical and mental retardation, short neck, slanted eyes and short stocky body / 
+kerencatan fizikal dan mental, leher pendek, mata sepet dan badan lebih rendah",Down syndrome / Sindrom Down,Turner syndrome / Sindrom Turner,Klinefelter syndrome / Sindrom Klinefelter,Colour blindness / Buta warna,Sickle cell anaemia / Anemia sel sabit,Thalassemia / Talasemia,Haemophilia / Hemofilia,Albinism / Albinisme,,,A,
+,radio,44 + XO,Down syndrome / Sindrom Down,Turner syndrome / Sindrom Turner,Klinefelter syndrome / Sindrom Klinefelter,Colour blindness / Buta warna,Sickle cell anaemia / Anemia sel sabit,Thalassemia / Talasemia,Haemophilia / Hemofilia,Albinism / Albinisme,,,B,
+,radio,44 + XXY,Down syndrome / Sindrom Down,Turner syndrome / Sindrom Turner,Klinefelter syndrome / Sindrom Klinefelter,Colour blindness / Buta warna,Sickle cell anaemia / Anemia sel sabit,Thalassemia / Talasemia,Haemophilia / Hemofilia,Albinism / Albinisme,,,C,
+,radio,"more number of sex chromosomes / 
+lebih bilangan kromosom seks",Down syndrome / Sindrom Down,Turner syndrome / Sindrom Turner,Klinefelter syndrome / Sindrom Klinefelter,Colour blindness / Buta warna,Sickle cell anaemia / Anemia sel sabit,Thalassemia / Talasemia,Haemophilia / Hemofilia,Albinism / Albinisme,,,C,
+,radio,"unable to differentiate between red and green / 
+tidak dapat membezakan antara warna merah dengan hijau",Down syndrome / Sindrom Down,Turner syndrome / Sindrom Turner,Klinefelter syndrome / Sindrom Klinefelter,Colour blindness / Buta warna,Sickle cell anaemia / Anemia sel sabit,Thalassemia / Talasemia,Haemophilia / Hemofilia,Albinism / Albinisme,,,D,
+,radio,"abnormal red blood cell shape that is sickle-shaped / 
+mempunyai bentuk sel darah merah abnormal yang berbentuk sabit",Down syndrome / Sindrom Down,Turner syndrome / Sindrom Turner,Klinefelter syndrome / Sindrom Klinefelter,Colour blindness / Buta warna,Sickle cell anaemia / Anemia sel sabit,Thalassemia / Talasemia,Haemophilia / Hemofilia,Albinism / Albinisme,,,E,
+,radio,"has small red blood cells and the lifespan of the cells is shorter / 
+mempunyai sel darah merah yang kecil dan jangka hayat sel ini lebih singkat",Down syndrome / Sindrom Down,Turner syndrome / Sindrom Turner,Klinefelter syndrome / Sindrom Klinefelter,Colour blindness / Buta warna,Sickle cell anaemia / Anemia sel sabit,Thalassemia / Talasemia,Haemophilia / Hemofilia,Albinism / Albinisme,,,F,
+,radio,"has difficulty in the clotting of his blood / 
+mengalami kesukaran darah membeku",Down syndrome / Sindrom Down,Turner syndrome / Sindrom Turner,Klinefelter syndrome / Sindrom Klinefelter,Colour blindness / Buta warna,Sickle cell anaemia / Anemia sel sabit,Thalassemia / Talasemia,Haemophilia / Hemofilia,Albinism / Albinisme,,,G,
+,radio,no black pigment / tiada pigmen hitam,Down syndrome / Sindrom Down,Turner syndrome / Sindrom Turner,Klinefelter syndrome / Sindrom Klinefelter,Colour blindness / Buta warna,Sickle cell anaemia / Anemia sel sabit,Thalassemia / Talasemia,Haemophilia / Hemofilia,Albinism / Albinisme,,,H,
+,checkbox,What is mutation? / Apakah mutasi?,Spontaneous / Spontan,Random / Rawak,Predictable / Boleh diramal,Planned / Dirancang,,,,,,,"A,B",
+,checkbox,Mutagen,Natural / Semula jadi,Radioactive rays / Sinaran radioaktif,X-rays / Sinar-X,Ultraviolet rays / Sinar ultraungu,Carcinogens / Karsinogen,Pregnancy at a late age / Kehamilan pada usia yang lewat,Microwave / Gelombang mikro,Infrared rays / Sinar inframerah,Ultrasound / Ultrabunyi,Stress / Tekanan,"A,B,C,D,E,F",

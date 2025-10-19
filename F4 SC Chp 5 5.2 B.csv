@@ -1,0 +1,17 @@
+﻿title,type,question,A,B,answer,image
+Allele,radio,Ability to roll the tongue / Boleh menggulung lidah 属于,Dominant trait / Trait dominan,Recessive trait / Trait resesif,A,
+,radio,Inability to roll the tongue / Tidak boleh menggulung lidah 属于,Dominant trait / Trait dominan,Recessive trait / Trait resesif,B,
+,radio,Black hair / Rambut hitam 属于,Dominant trait / Trait dominan,Recessive trait / Trait resesif,A,
+,radio,Blonde hair / Rambut perang muda 属于,Dominant trait / Trait dominan,Recessive trait / Trait resesif,B,
+,radio,Free earlobes / Cuping telinga bebas 属于,Dominant trait / Trait dominan,Recessive trait / Trait resesif,A,
+,radio,Attached earlobes / Cuping telinga melekap 属于,Dominant trait / Trait dominan,Recessive trait / Trait resesif,B,
+,radio,"T=高，t=矮
+请问 TT =",高,矮,A,
+,radio,"T=高，t=矮
+请问 Tt =",,,A,
+,radio,"T=高，t=矮
+请问 tT =",,,A,
+,radio,"T=高，t=矮
+请问 tt =",,,B,
+,radio,Tt 属于,genotype / Genotip,phenotype / fenotip,A,
+,radio,Tall / Tinggi 属于,genotype / Genotip,phenotype / fenotip,B,

@@ -1,0 +1,7 @@
+﻿title,type,question,A,B,C,D,E,F,answer,image
+Fertilisation,radio,TT x TT = ,TT TT TT TT,TT TT Tt Tt,TT Tt Tt tt,Tt Tt Tt Tt,tt tt tt tt,Tt Tt tt tt,A,
+,radio,TT x Tt = ,TT TT TT TT,TT TT Tt Tt,TT Tt Tt tt,Tt Tt Tt Tt,tt tt tt tt,Tt Tt tt tt,B,
+,radio,TT x tt = ,TT TT TT TT,TT TT Tt Tt,TT Tt Tt tt,Tt Tt Tt Tt,tt tt tt tt,Tt Tt tt tt,D,
+,radio,Tt x tt = ,TT TT TT TT,TT TT Tt Tt,TT Tt Tt tt,Tt Tt Tt Tt,tt tt tt tt,Tt Tt tt tt,F,
+,radio,Tt x Tt = ,TT TT TT TT,TT TT Tt Tt,TT Tt Tt tt,Tt Tt Tt Tt,tt tt tt tt,Tt Tt tt tt,C,
+,radio,tt x tt = ,TT TT TT TT,TT TT Tt Tt,TT Tt Tt tt,Tt Tt Tt Tt,tt tt tt tt,Tt Tt tt tt,E,
