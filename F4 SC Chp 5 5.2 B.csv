@@ -8,10 +8,10 @@ Allele,radio,Ability to roll the tongue / Boleh menggulung lidah 属于,Dominant
 ,radio,"T=高，t=矮
 请问 TT =",高,矮,A,
 ,radio,"T=高，t=矮
-请问 Tt =",,,A,
+请问 Tt =",高,矮,A,
 ,radio,"T=高，t=矮
-请问 tT =",,,A,
+请问 tT =",高,矮,A,
 ,radio,"T=高，t=矮
-请问 tt =",,,B,
+请问 tt =",高,矮,B,
 ,radio,Tt 属于,genotype / Genotip,phenotype / fenotip,A,
 ,radio,Tall / Tinggi 属于,genotype / Genotip,phenotype / fenotip,B,
