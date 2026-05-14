@@ -1,7 +1,7 @@
 ﻿title,type,question,A,B,C,D,answer,image
 Endocrine gland,text,a 是什么？,,,,,"Pituitary gland,Kelenjar pituitari",endocrine_glands.png
-,radio,b 是什么？,,,,,"Thyroid gland,Kelenjar tiroid",endocrine_glands.png
-,radio,c 是什么？,,,,,"Pancreas,Pankreas",endocrine_glands.png
-,radio,d 是什么？,,,,,"Adrenal glands,Kelenjar adrenal,Adrenal gland",endocrine_glands.png
-,radio,e 是什么？,,,,,"Ovary,Ovari",endocrine_glands.png
-,radio,f 是什么？,,,,,Testis,endocrine_glands.png
+,text,b 是什么？,,,,,"Thyroid gland,Kelenjar tiroid",endocrine_glands.png
+,text,c 是什么？,,,,,"Pancreas,Pankreas",endocrine_glands.png
+,text,d 是什么？,,,,,"Adrenal glands,Kelenjar adrenal,Adrenal gland",endocrine_glands.png
+,text,e 是什么？,,,,,"Ovary,Ovari",endocrine_glands.png
+,text,f 是什么？,,,,,Testis,endocrine_glands.png
