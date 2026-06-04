@@ -180,11 +180,11 @@
       <button class="theme-dot" data-theme="dark">Dark</button>
     </div>
     <p id="loginMsg" class="muted"></p>
-    <p class="hint">章节会先显示，题数会在后台自动补上。若不能登入，请点“更新页面”或用 Chrome / Safari 打开。提交成绩时也需要一点时间，请不要马上关闭页面。</p>
+    <p class="hint">章节会先显示，怪兽状态、错题数与题数会在后台自动补上。若不能登入，请点“更新页面”或用 Chrome / Safari 打开。提交成绩时也需要一点时间，请不要马上关闭页面。</p>
     <div class="footer-help">
       有问题可直接 WhatsApp 老师：<a href="https://wa.me/60167312519" target="_blank" rel="noopener">016-7312519</a>
     </div>
-    <div class="version-tag" id="versionTag">版本：2026.06.04.6</div>
+    <div class="version-tag" id="versionTag">版本：2026.06.04.7</div>
   </div>
 </div>
 
@@ -227,7 +227,7 @@
       <div class="xp-text" id="statExp">⚡0 / 100</div>
     </div>
     <div id="levelUpMsg" class="levelup"></div>
-    <div class="version-tag">版本：2026.06.04.6</div>
+    <div class="version-tag">版本：2026.06.04.7</div>
   </div>
   <div id="chapterWrap"></div>
 </div>
@@ -338,7 +338,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const SCRIPT_URL = document.getElementById('postForm').getAttribute('action');
   const STORAGE_KEY = 'kee_quiz_game_auth_v1';
   const TZ = 'Asia/Kuala_Lumpur';
-  const APP_VERSION = '2026.06.04.6';
+  const APP_VERSION = '2026.06.04.7';
   const PENDING_SCORE_KEY = 'kee_pending_scores_v2';
   let serverBaseMs = 0;
   let perfBaseMs = 0;
@@ -374,6 +374,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let questionCountLoadingPromise = null;
   let monsterQuestionCache = new Map();
   let progressState = { exp:0, level:1, monsters:{}, bosses:{} };
+  let progressLoadingPromise = null;
 
   ensureLatestVersion_();
 
@@ -536,7 +537,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const msg = document.getElementById('loginMsg');
     if (!nm || !pwd) return msg.textContent = '请输入姓名和每月密码';
     msg.textContent = '正在验证...';
-    setLoading(true, '正在验证密码并加载题库，请稍等...');
+    setLoading(true, '正在验证每月密码，请稍等...');
     try {
       const r = await apiFetch({ action:'checkPassword', book, name:nm, password:pwd, ua:getUserAgent() }, 1);
       if (!r.ok) { msg.textContent = explainLoginError(r.error || '验证失败'); return; }
@@ -545,12 +546,18 @@ document.addEventListener('DOMContentLoaded', () => {
       saveAuth(displayUser, pwd);
       await loadChapters();
       registerQuestionSourcesInBackground();
-      try { await loadProgress(); } catch (_) { progressState = { exp:0, level:1, monsters:{}, bosses:{} }; }
+
+      // 验证成功后先显示章节，不等待等级、怪兽、Boss、错题数与题数资料。
+      progressState = { exp:0, level:1, monsters:{}, bosses:{} };
       updateHeader();
       document.getElementById('login').style.display = 'none';
       showChapterList();
-      // 章节先显示，题数从 QuestionCounts 在后台一次性读取后补上。
+
+      // 全部改成后台补上，不阻塞登入。
+      loadProgressInBackground();
       loadQuestionCountCacheInBackground();
+      setTimeout(() => refreshWrongBookCount(), 300);
+
       msg.textContent = '';
     } catch (e) {
       console.error(e);
@@ -683,6 +690,26 @@ document.addEventListener('DOMContentLoaded', () => {
       serverBaseMs = Number(r.serverNow || 0);
       perfBaseMs = performance.now();
     }
+  }
+
+  function loadProgressInBackground(){
+    if (progressLoadingPromise) return progressLoadingPromise;
+
+    progressLoadingPromise = loadProgress()
+      .then(() => {
+        updateHeader();
+        // 怪兽与 Boss 状态加载完成后，重新绘制章节卡片。
+        if (document.getElementById('chapters').style.display !== 'none') {
+          showChapterList();
+        }
+        return true;
+      })
+      .catch(() => false)
+      .finally(() => {
+        progressLoadingPromise = null;
+      });
+
+    return progressLoadingPromise;
   }
 
   function getMainChapterNo(chapterStr){
